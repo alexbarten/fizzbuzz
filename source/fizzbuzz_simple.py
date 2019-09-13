@@ -14,6 +14,6 @@ def fizzbuzz():
         output = ''
         if i % 3 == 0: output = 'Fizz'
         if i % 5 == 0: output += 'Buzz'
-        print(str(i) if output == '' else output)
+        print(i if output == '' else output)
 
 fizzbuzz()
