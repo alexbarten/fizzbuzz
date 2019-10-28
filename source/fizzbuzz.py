@@ -12,7 +12,7 @@ def fizzbuzz(i):
     output = ''
     if i % 3 == 0: output = 'Fizz'
     if i % 5 == 0: output += 'Buzz'
-    return(i if output == '' else output)
+    return(output or i)
 
 if __name__ == "__main__":
     for i in range(1, 101):
