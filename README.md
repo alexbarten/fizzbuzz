@@ -8,7 +8,7 @@ Although there have been, and are, hot debates on how to solve the problem and h
 
 ## Requirements
 
-Write a short program that prints each number from 1 to 100 on a new line.  
-For each multiple of 3, print "Fizz" instead of the number.  
-For each multiple of 5, print "Buzz" instead of the number.  
-For numbers which are multiples of both 3 and 5, print "FizzBuzz" instead of the number.
+1. Write a short program that prints each number from 1 to 100 on a new line.
+2. For each multiple of 3, print "Fizz" instead of the number.
+3. For each multiple of 5, print "Buzz" instead of the number.
+4. For numbers which are multiples of both 3 and 5, print "FizzBuzz" instead of the number.
